@@ -1,16 +1,15 @@
 <div align="center">
-  <h1>Olá, eu sou o [SEU NOME]! 👋</h1>
-  <p>Desenvolvedor em constante aprendizado e apaixonado por tecnologia.</p>
+  <h1>Olá, eu sou o Samara Sena! 👋</h1>
 </div>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente estou focando em projetos com **Python, SQL e Java**.
-- 🌱 Estudando estruturas de dados e bancos de dados relacionais.
-- 📫 Como me encontrar: **[samaracocivera@gmail.com]**
-- 💼 Confira meu LinkedIn: [Link para seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- 🖥 Estudante de Ciência da Computação na UFRRJ.
+- 🔭 Atualmente estou focando na área de dados e em projetos com **Python, SQL e Java**.
+- 📫 Como me encontrar: **samaracocivera@gmail.com**
+- 💼 Confira meu LinkedIn: (https://www.linkedin.com/in/samarasenaa/)
 
 ---
 
