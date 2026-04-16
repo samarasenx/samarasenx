@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Olá, eu sou o Samara Sena! 👋</h1>
-</div>
+## Olá, eu sou o Samara Sena! 👋
 
 ---
 
@@ -9,7 +7,7 @@
 - 🖥 Estudante de Ciência da Computação na UFRRJ.
 - 🔭 Atualmente estou focando na área de dados e em projetos com **Python, SQL e Java**.
 - 📫 Como me encontrar: **samaracocivera@gmail.com**
-- 💼 Confira meu LinkedIn: (https://www.linkedin.com/in/samarasenaa/)
+- 💼 Confira meu LinkedIn: https://www.linkedin.com/in/samarasenaa/
 
 ---
 
@@ -42,9 +40,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <a href="https://github.com/samarasenx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarasenx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasenx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
