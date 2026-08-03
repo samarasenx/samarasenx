@@ -8,4 +8,4 @@
 - 💼 Confira meu LinkedIn: https://www.linkedin.com/in/samarasenaa/
 
 ### 🖥 Tecnologias: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,python,postgres,java,github,vscode,git,html,css,c)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,python,postgres,java,github,vscode,git,html,css,c,docker)](https://skillicons.dev)<br><br>
